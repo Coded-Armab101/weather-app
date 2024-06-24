@@ -1,2 +1,2 @@
 # weather-app
-check your are weather with this app
+check your weather with this app
